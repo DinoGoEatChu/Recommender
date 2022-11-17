@@ -1,4 +1,2 @@
-python -m pip install .
-
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38 --minimize=False
