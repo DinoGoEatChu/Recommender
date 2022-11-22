@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "dashboardHeight": 1646,
+    "dashboardWidth": 1920
+  },
+  "version": 1,
+  "outputs": {
+    "7fbfd84e-9580-4474-b832-ba4afa8cbcb5": [
+      {
+        "cellId": "c5b03063-563a-4e03-8e78-2ecd003923ae",
+        "pos": {
+          "left": 704,
+          "top": 1088,
+          "width": 576,
+          "height": 32
+        }
+      },
+      {
+        "cellId": "6d270115-e318-46ec-b33b-5e04b29fad73",
+        "pos": {
+          "left": 448,
+          "top": 224,
+          "width": 1088,
+          "height": 864
+        }
+      },
+      {
+        "cellId": "bd3db1a0-4c9d-4a44-880c-d9d1bf8beeb2",
+        "pos": {
+          "left": 448,
+          "top": 192,
+          "width": 672,
+          "height": 32
+        }
+      },
+      {
+        "cellId": "7fb31108-c77c-49da-9b5b-d6022f848de7",
+        "pos": {
+          "left": 800,
+          "top": 32,
+          "width": 352,
+          "height": 96
+        }
+      }
+    ]
+  },
+  "paths": {
+    "Song_Recommender.ipynb": "7fbfd84e-9580-4474-b832-ba4afa8cbcb5"
+  }
+}
